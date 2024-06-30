@@ -1,0 +1,46 @@
+/*Generales*/
+*{
+    color:black
+    border: 2px solid red
+ } 
+
+html,body{
+font-family:Arial, Helvetica, sans-serif;
+}
+
+/*Header*/
+
+/* Tipo--->Encabezado1 o <h1> */
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #f133ff;
+    font-size: 80px;
+    font-weight: 500;
+    font-style: italic;
+    background-color: rgb(238, 233, 243);
+ }
+
+ p {
+    font-family: 'Times New Roman', Times, serif;
+    color: #4b33ff;
+    font: size 20px;;
+    font-weight: 500;
+    font-style: italic;
+ }
+
+section{ 
+    border: 2px solid black
+} 
+
+/* Clase---> <tipo class="titulo">*/
+
+.parrafos {
+color:rgb(30, 0, 255);
+ }
+
+/* Id---> <tipo id="">*/
+
+#elParrafo {
+color: rgb(255, 64, 0);
+}
+
